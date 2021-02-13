@@ -1,0 +1,29 @@
+/* Main stylesheet */
+
+/* fonts */
+@font-face {
+    font-family: Parisienne;
+    src: url(../fonts/Parisienne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* Components */
+.maincontent {
+    height: 100%;
+    background-image: url("../images/logo-fb.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+
+
